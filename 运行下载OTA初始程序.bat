@@ -1,0 +1,1 @@
+esptool --baud 921600 write_flash --flash_size=detect 0 chushi.bin
