@@ -5,4 +5,4 @@ RGBsword，nodemcu，arduino，esp8266
 ![image](https://github.com/DLGGmakerDIY/Lightsaber/blob/master/pic/weixin.jpg)
 
 # QQ群：341074058
-![image](https://github.com/DLGGmakerDIY/Lightsaber/tree/master/pic/qq.png)
+![image](https://github.com/DLGGmakerDIY/Lightsaber/blob/master/pic/qq.png)
