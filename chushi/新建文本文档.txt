@@ -1,4 +1,4 @@
-CP210x_USB网上找的未测试.exe：nodemcu v1的串口驱动
+CP210x_USB驱动到driver文件夹找
 esptool.exe：不用运行，通过“运行下载OTA初始程序.bat”调用启动的
 运行下载OTA初始程序.bat：装好驱动之后点这个，自动运行下载程序
 

@@ -1,0 +1,2 @@
+CP210x_USB网上找的未测试.exe：网上找的未测试
+CP210x_VCP_Windows.rar：淘宝客服给的未测试
